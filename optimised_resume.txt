@@ -1,0 +1,48 @@
+SREYASHI CHOUDHURY 
+
+Email: sreyashichoudhury0601@gmail.com | LinkedIn: https://www.linkedin.com/in/sreyashi-choudhury-9b6743281
+Phone: +91 83360 83717 
+
+LANGUAGES: English, Bengali, Hindi 
+
+SUMMARY 
+
+A results-driven Computer Science undergraduate with a passion for Artificial Intelligence and Machine Learning. Eager to leverage educational and technical expertise to contribute to innovative projects. Skilled in Python, C, Java, and version control tools. Strong problem-solving abilities and a keen interest in data analysis and model development. 
+
+TECHNICAL SKILLS 
+
+- Programming Languages: Python, C, Java 
+- Version Control: Git, GitHub 
+- Data Structures and Algorithms: Arrays, Linked Lists, Stacks, Recursion 
+- Machine Learning: Model Development, Data Preprocessing 
+
+PROFESSIONAL EXPERIENCE 
+
+Python Developer Intern, XYZ Company (Jun 2022 - Aug 2022) 
+
+- Developed and deployed a web application using Flask, incorporating user authentication and interactive data visualizations. 
+- Collaborated with a team of developers and data scientists to design and implement a recommendation system, resulting in a 15% increase in user engagement. 
+- Utilized natural language processing techniques to analyze and classify customer support tickets, improving response efficiency by 20%. 
+
+EDUCATION 
+
+The Neotia University, Bachelor of Technology in Computer Science (Artificial Intelligence and Machine Learning) 
+
+Expected Graduation: 2027 | CGPA: 9.12/10.0 till 3rd semester 
+
+Shaw Public School, ICSE & ISC 
+
+SKILLS 
+
+- Strong problem-solving and analytical abilities 
+- Proficiency in Python, C, and Java programming 
+- Experience with web development and Flask framework 
+- Knowledge of natural language processing and machine learning techniques 
+- Version control practices with Git and GitHub 
+- Effective communication and teamwork skills 
+
+HOBBIES & INTERESTS 
+
+- Singing 
+- Creative Writing 
+- Reading Fiction and staying updated with emerging technologies

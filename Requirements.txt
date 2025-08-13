@@ -1,0 +1,6 @@
+os
+cohere
+fitz
+python-docx
+PyMuPDF
+reportlab
