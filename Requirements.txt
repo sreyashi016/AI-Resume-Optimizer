@@ -1,5 +1,0 @@
-streamlit
-cohere
-PyMuPDF
-python-docx
-reportlab
